@@ -1,4 +1,4 @@
- ******Welcome to the Joke Generator!***********
+*********Welcome to the Quip Engine!***********
 
 This simple project is designed for beginners learning Python.
 
@@ -8,9 +8,15 @@ It's a great way to practice working with APIs and handling JSON data in Python.
 
 *************Features******************
 
-Fetches random jokes from a public API.
+Purpose: To create clever and humorous comments, known as quips.
 
-Displays jokes in the console.
+Functionality: Utilizes algorithms and databases of language patterns to produce witty statements.
+
+Applications: Used in entertainment, social media, chatbots, and as a feature in various software to add humor.
+
+Output: Focuses on generating brief, sharp, and often humorous lines.
+
+Similar Terms: Joke generator, humor creator, wit generator.
 
 
 ********How to run code ***********
